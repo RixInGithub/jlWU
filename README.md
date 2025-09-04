@@ -1,2 +1,2 @@
 # jlWU
-jorkdir lua WITH UTILS
+stands for "[jorkdir](https://github.com/RixInGithub/jorkdir/) lua WITH UTILS"
